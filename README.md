@@ -6,7 +6,7 @@ In this project, the goal had been to demonstate the affective utilization of sq
 
 ## Description
 
-I will take you step-by-step through the process of the project. I began the project by sourcing data concerning television, and movie titles. I then created a database titled “netflix” to host the table title “media” which contained a list of television series, and movie titles that had been imported into the table. In the process of importing said data into the table, I ran into an issue concerning the original dataset. The original dataset contained several commas trailing at the last column; thus, to remove said trailing commas I wrote a script in “python”.
+I will take you step-by-step through the process of the project. I began the project by sourcing data concerning television series, and movie titles. I then created a database titled “netflix” to host the table title “media” which contained a list of television series, and movie titles that had been imported into the table. In the process of importing said data into the table, I ran into an issue concerning the original dataset. The original dataset contained several commas trailing at the last column; thus, to remove said trailing commas I wrote a script in “python”.
 
 ```
 import csv
