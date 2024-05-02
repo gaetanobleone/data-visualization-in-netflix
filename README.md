@@ -2,7 +2,7 @@
 
 Overview:
 
-In this project, the goal had been to demonstrate the affective utilization of sql, python, and excel for managing, and analyzing data reagrding television series, and movies on the site Netflix; the dataset was sourced from an external site, that is Kaggle. In addition, this project displays the use of the following skills...
+In this project, the goal had been to demonstrate the affective utilization of sql, python, and excel for managing, and analyzing data regarding television series, and movies on the site Netflix; the dataset was sourced from an external site, that is Kaggle. In addition, this project displays the use of the following skills...
 
 * data import
 * data export
