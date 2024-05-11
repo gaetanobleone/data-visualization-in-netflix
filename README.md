@@ -44,7 +44,7 @@ In this project, the goal had been to demonstrate the affective utilization of s
 
 <div align="center">
   <kbd>
-    <img src="https://imgur.com/PBCjNZs.png" width="75%" height="75%" /> 
+    <img src="https://imgur.com/wGLPjHv.png" width="75%" height="75%" /> 
   </kbd>
 </div>
 
