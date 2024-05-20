@@ -6,7 +6,9 @@ The process is simple, and I confidently tackled it head-on. The original data s
 
 <div align="center">
   <kbd>
-    <img src="https://imgur.com/mwzphoF.png" width="75%" height="75%" /> 
+    <img src="https://imgur.com/rids75X.png" width="75%" height="75%" /> 
+    <img src="https://imgur.com/gJdeDqH.png" width="75%" height="75%" /> 
+    <img src="https://imgur.com/vFdA148.png" width="75%" height="75%" /> 
   </kbd>
 </div>
 
